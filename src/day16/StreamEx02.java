@@ -1,0 +1,7 @@
+package day16;
+
+public class StreamEx02 {
+
+	public static void main(String[] args) {
+}
+}
